@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/jw233](https://www.datascienceportfol.io/jw233)
 
-- 💬 Ask me about **Joins,Aggregation Functions**
+- 💬 Ask me about **Joins, Aggregation Functions**
 
 - 📫 How to reach me **josephwu233@gmail.com**
 
